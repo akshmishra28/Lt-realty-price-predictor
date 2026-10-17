@@ -4,4 +4,4 @@ numpy
 scikit-learn
 xgboost
 category_encoders
-plotyly
+plotly
