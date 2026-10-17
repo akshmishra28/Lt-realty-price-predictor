@@ -4,7 +4,7 @@ numpy
 scikit-learn
 xgboost
 category_encoders
-plotly
+plotly==5.24.1
 wordcloud
 matplotlib
 seaborn
