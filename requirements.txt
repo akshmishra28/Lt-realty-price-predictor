@@ -5,3 +5,6 @@ scikit-learn
 xgboost
 category_encoders
 plotly
+wordcloud
+matplotlib
+seaborn
